@@ -1,0 +1,6 @@
+xray_detector=Example system
+short_name=eg_system
+xray_source=example x-ray source
+xray_comments=this is just example data
+px_size=(0.21,0.21)
+image_area=(9999,9999)

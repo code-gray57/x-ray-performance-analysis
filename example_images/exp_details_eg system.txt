@@ -1,0 +1,6 @@
+xray_detector=Default System
+short_name=eg system
+xray_source=Example X-ray source
+xray_comments=Example Data
+px_size=(0.1477,0.1477)
+image_area=(2876,2350)
